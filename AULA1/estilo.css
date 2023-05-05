@@ -1,0 +1,14 @@
+.content{
+    position: center;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%, -50%);
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 40px;
+    border-radius: 15px;
+    width: 20%;
+    color: white;
+    text-align: center; 
+}
+
+
